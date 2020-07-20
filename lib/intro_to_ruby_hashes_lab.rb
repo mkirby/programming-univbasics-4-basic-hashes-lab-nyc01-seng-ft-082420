@@ -7,7 +7,7 @@ def my_hash
   # return a valid hash with any key/value pair of your choice
   my_hash = {
     :test_symbol => "Hello World"
-    test_alt_key: "can I mix key types?"
+    #test_alt_key: "can I mix key types?"
   }
 end
 
